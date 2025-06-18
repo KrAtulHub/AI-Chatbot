@@ -29,14 +29,9 @@ A no-code AI chatbot built using **n8n**, **Groq Chat Model**, and **SerpAPI**, 
 You can import `workflow.json` into your n8n instance to try it out.
 
 ## 🌐 Live Demo
-> Currently hosted locally. Public link available on request.
+http://localhost:5678/webhook/16f7959e-117d-4636-84a5-d39eb1243c4e/chat
 
-## 📁 Setup Instructions
-> You must have n8n running locally or via Docker.
 
-1. Open your n8n instance
-2. Import the `workflow.json` file
-3. Start the workflow and test via webhook/chat input
 
 ---
 
