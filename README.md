@@ -17,7 +17,8 @@ A no-code AI chatbot built using **n8n**, **Groq Chat Model**, and **SerpAPI**, 
 - No-code automation
 
 ## 🖼️ Preview
-("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2025-06-18 060800.png")
+(![Screenshot 2025-06-18 060800](https://github.com/user-attachments/assets/8fd69f69-7fc7-4b83-983e-1655ae9d0c4a)
+)
 
 ## ⚙️ How It Works
 1. User sends a chat message (e.g., "current stock price of Tesla")
